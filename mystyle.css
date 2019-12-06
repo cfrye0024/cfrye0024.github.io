@@ -4,11 +4,8 @@ body {
 a {
   color: FFFAFA;
 }
-div {
-  margin-top: 50px;
-  margin-bottom: 400px;
-  margin-right: 50px;
-  margin-left: 50px;
+li {
+  margin: 35px;
 }
 p {
   font-size: 24pt;
