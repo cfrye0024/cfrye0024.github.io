@@ -1,6 +1,12 @@
 body {
-  background: #ffff00;
+  background: #EEE8AA;
 }
-h1 {
-  color: grey;
+a {
+  color: A52A2A;
+}
+div {
+  margin-top: 50px;
+  margin-bottom: 400px;
+  margin-right: 25px;
+  margin-left: 25px;
 }
