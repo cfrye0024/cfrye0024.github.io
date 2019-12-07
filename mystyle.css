@@ -17,6 +17,10 @@ h1 {
   border: 1px solid #000000;
 }
 h2 {
-  padding: 30px;
+  padding: 25px;
+  border: 1px solid #000000;
+}
+h3 {
+  padding: 20px;
   border: 1px solid #000000;
 }
