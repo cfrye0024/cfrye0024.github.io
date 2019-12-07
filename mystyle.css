@@ -13,6 +13,10 @@ p {
 }
 h1 {
   color: grey;
-  padding: 80px;
-  border: 1px solid #4CAF50;
+  padding: 30px;
+  border: 1px solid #000000;
+}
+h2 {
+  padding: 30px;
+  border: 1px solid #000000;
 }
